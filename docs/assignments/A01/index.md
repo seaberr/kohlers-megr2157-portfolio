@@ -14,4 +14,4 @@ https://rajpshinde.github.io/
 The next one I looked at was from github. This one is from Raj Software Engineer from India with a Masters in Robotics from Maryland. His Bio is nearly less than a hundred words. His page heavily relies on his projects which are below the bio with his resume. I don’t find the side bar on the left attractive since it takes up half the page and does not ever go away. The website is very easy to use but is still dull. The projects are excellent and so they should speak for themselves. The portfolio does show his design process and how decisions were made which is good and the tone is professional as can be.
 
 ## Product Analysis
-
+![product analysis](US6281-drawings-page-1.png)
