@@ -16,4 +16,5 @@ https://drive.google.com/drive/folders/1ESFeaWSr4QqMpWqN5K4x8xtdz4wsImEo?usp=dri
 ## Engineering Lessons
 Dont wait till the deadline to do the project because It takes you a long time and ruins your sleep schedule. You also cannont ask questions because you dont have time.
 ## LikelyHood of failiars in truss structures
+If this were to fail It would fail in the middle where shear force is highest on the pins
 ##
