@@ -17,4 +17,4 @@ The next one I looked at was from github. This one is from Raj Software Engineer
 ![product analysis](US6281-drawings-page-1.png)
 ### My product: Safety Pin
 ![product analysis](image0 (1).jpeg)
-image0 (1)
+
