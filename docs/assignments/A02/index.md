@@ -13,3 +13,7 @@ _Which geometry did you select, and why? This is your first open design choice i
 
 ## Download
 https://drive.google.com/drive/folders/1ESFeaWSr4QqMpWqN5K4x8xtdz4wsImEo?usp=drive_link
+## Engineering Lessons
+Dont wait till the deadline to do the project because It takes you a long time and ruins your sleep schedule. You also cannont ask questions because you dont have time.
+## LikelyHood of failiars in truss structures
+##
