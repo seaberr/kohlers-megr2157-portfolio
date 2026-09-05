@@ -1,3 +1,4 @@
+![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # A1 – Portfolio Creation
 ## Analyze
 https://sites.google.com/view/sethschafferportfolio/home
