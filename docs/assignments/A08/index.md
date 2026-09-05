@@ -1,5 +1,5 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
-# A8 – Gears
+# A8 – Gear Box Design
 
 ## Objective
 
