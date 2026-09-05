@@ -1,3 +1,4 @@
+![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # A10 – Lead Screw Translating System
 
 ## Objective
