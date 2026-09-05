@@ -1,3 +1,4 @@
+![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # A2 – Truss Stress Analysis
 ![MEGR 2156-7 Title](IMG_5827.JPG)
 ## Objective
