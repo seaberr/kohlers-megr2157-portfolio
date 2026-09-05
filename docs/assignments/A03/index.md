@@ -1,14 +1,5 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
-# A3 – [Topic]
-
-## Objective
+# A3 – Parametric and FEA
 
 
-## Analyze
-
-
-## Decide
-
-
-## Communicate
 
