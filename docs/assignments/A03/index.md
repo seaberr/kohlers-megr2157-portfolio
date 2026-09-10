@@ -40,14 +40,15 @@ The bar must satisfy the following requirements:
 Answer:
 
 - Why did I choose this load?
+  I chose my load because It fit between the parameters that were given
 - Why did I choose these cross-sectional dimensions?
+  I chose the cross section dimensions because I thought that .5 x .5 would be easy to tink about and explain to somebody who doesnt know much about stress.
 - Why did I choose this value of Young's Modulus?
+  I didn't
 - Is the Young's Modulus within the required aluminum range?
+  Yes, It better be because if it was not that would mean there is a problem else ware in this model.
 - Are the dimensions practical to manufacture/model?
-
-**Response:**
-
-[Write response here]
+  Yes, I could imagine achieving this with a saw and a tape measure.
 
 ---
 
@@ -55,14 +56,7 @@ Answer:
 
 Add a hand sketch or CAD sketch showing:
 
-- [ ] Bar geometry
-- [ ] Cross-sectional dimensions
-- [ ] Length
-- [ ] Fixed end
-- [ ] Applied load
-- [ ] Direction of load
 
-### Image
 
 ![Initial Design Sketch](IMAGE-LINK-HERE)
 
@@ -190,8 +184,10 @@ Create parameters for the required design variables.
 - [ ] Length
 
 ### Parameter Table
-![MEGR 2156-7 Title](5951)
-![MEGR 2156-7 Title](5593)
+![MEGR 2156-7 Title](IMG_5951.JPEG)
+![MEGR 2156-7 Title](IMG_5953.JPEG)
+![MEGR 2156-7 Title](IMG_5954.JPEG)
+
 | CAD Parameter | Value | Units |
 |---|---:|---|
 | LOAD | _____ | lbf |
@@ -209,9 +205,6 @@ Create parameters for the required design variables.
 
 The length of the bar was controlled using:
 
-\[
-L = \frac{\delta AE}{F}
-\]
 
 ### CAD Equation Used
 
