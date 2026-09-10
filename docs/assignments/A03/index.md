@@ -70,23 +70,11 @@ Add a hand sketch or CAD sketch showing:
 
 For a uniform bar under direct axial tension:
 
-\[
-\delta = \frac{FL}{AE}
-\]
-
 Where:
 
-- \( \delta \) = axial deflection
-- \( F \) = applied axial force
-- \( L \) = bar length
-- \( A \) = cross-sectional area
-- \( E \) = Young's Modulus
+
 
 Solving for the required length:
-
-\[
-L = \frac{\delta AE}{F}
-\]
 
 ---
 
@@ -94,23 +82,13 @@ L = \frac{\delta AE}{F}
 
 ### If using a circular bar:
 
-\[
-A = \frac{\pi d^2}{4}
-\]
-
 ### If using a rectangular bar:
-
-\[
-A = wt
-\]
 
 Use the equation corresponding to the geometry actually used in the CAD model.
 
 ### Calculation
 
-\[
-A =
-\]
+
 
 Show all work here:
 
@@ -122,35 +100,11 @@ Show all work here:
 
 Known values:
 
-\[
-F =
-\]
-
-\[
-E =
-\]
-
-\[
-A =
-\]
-
-\[
-\delta = 0.009\text{ in}
-\]
-
 Substitute into:
 
-\[
-L = \frac{\delta AE}{F}
-\]
 
 ### Calculated Length
 
-\[
-\boxed{L = \_\_\_\_\_ \text{ in}}
-\]
-
----
 
 ## Hand Calculation Image
 
@@ -168,36 +122,29 @@ Add a clear photograph or scan of the complete hand calculation.
 
 Software: CREO
 [Download Project Report](a3terror.prt.1)
+## Images
+![MEGR 2156-7 Title](IMG_5956.JPEG)
+![MEGR 2156-7 Title](IMG_5956.JPEG)
 ---
 
 ## Parameters Created
 
 Create parameters for the required design variables.
 
-- [ ] Young's Modulus
-- [ ] Maximum deflection
-- [ ] Applied load
-- [ ] Width or diameter
-- [ ] Height
-- [ ] Thickness
-- [ ] Cross-sectional area
-- [ ] Length
+-  Young's Modulus
+-  Maximum deflection
+-  Applied load
+-  Width or diameter
+-  Height
+-  Thickness
+-  Cross-sectional area
+-  Length
 
 ### Parameter Table
 ![MEGR 2156-7 Title](IMG_5951.JPEG)
 ![MEGR 2156-7 Title](IMG_5953.JPEG)
 ![MEGR 2156-7 Title](IMG_5954.JPEG)
 
-| CAD Parameter | Value | Units |
-|---|---:|---|
-| LOAD | _____ | lbf |
-| MODULUS | _____ | psi |
-| DEFLECTION | 0.009 | in |
-| WIDTH / DIAMETER | _____ | in |
-| HEIGHT | _____ | in |
-| THICKNESS | _____ | in |
-| AREA | _____ | in² |
-| LENGTH | _____ | in |
 
 ---
 
@@ -208,6 +155,5 @@ The length of the bar was controlled using:
 
 ### CAD Equation Used
 
-```text
-[Paste the exact parameter/equation syntax used in your CAD program here]
+sqroot of Cad^2 =  CAD
 
