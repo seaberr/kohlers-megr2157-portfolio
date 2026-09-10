@@ -33,13 +33,6 @@ The bar must satisfy the following requirements:
 |---|---:|---|
 | Applied Load, F | _____ | lbf |
 | Young's Modulus, E | _____ | psi |
-| Maximum Deflection, δ | 0.009 | in |
-| Width / Diameter | _____ | in |
-| Height | _____ | in |
-| Thickness | _____ | in |
-| Cross-Sectional Area, A | _____ | in² |
-| Calculated Length, L | _____ | in |
-
 ---
 
 ## Why I Chose These Values
@@ -197,7 +190,8 @@ Create parameters for the required design variables.
 - [ ] Length
 
 ### Parameter Table
-
+![MEGR 2156-7 Title](5951)
+![MEGR 2156-7 Title](5593)
 | CAD Parameter | Value | Units |
 |---|---:|---|
 | LOAD | _____ | lbf |
