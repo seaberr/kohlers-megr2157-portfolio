@@ -28,11 +28,8 @@ The bar must satisfy the following requirements:
 - Aluminum yield strength used for safety-factor calculation: **40 ksi**
 
 ### My Selected Design Parameters
-
-| Parameter | Value | Units |
-|---|---:|---|
-| Applied Load, F | _____ | lbf |
-| Young's Modulus, E | _____ | psi |
+#### Young's Modulus
+#### Applied Load
 ---
 
 ## Why I Chose These Values
