@@ -179,10 +179,8 @@ Add a clear photograph or scan of the complete hand calculation.
 
 ## CAD Program Used
 
-Software:
-
-**[Creo / SolidWorks / Fusion 360]**
-
+Software: CREO
+[Download Project Report](a3terror.prt.1)
 ---
 
 ## Parameters Created
