@@ -5,13 +5,13 @@
 
 ### Objectives
 
-- [ ] Use axial deflection calculations to design the dimensions of a bar.
-- [ ] Use parametric CAD design to determine the bar length.
-- [ ] Perform a Finite Element Analysis (FEA).
-- [ ] Link CAD dimensions to engineering parameters.
-- [ ] Compare hand calculations with FEA results.
-- [ ] Evaluate the safety factor of the design.
-- [ ] Document the entire design process, including mistakes and lessons learned.
+-  Use axial deflection calculations to design the dimensions of a bar.
+-  Use parametric CAD design to determine the bar length.
+-  Perform a Finite Element Analysis (FEA).
+-  Link CAD dimensions to engineering parameters.
+-  Compare hand calculations with FEA results.
+-  Evaluate the safety factor of the design.
+-  Document the entire design process, including mistakes and lessons learned.
 
 ---
 
