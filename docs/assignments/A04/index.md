@@ -10,11 +10,11 @@
 --------------------------------------------------------------------
 ## Sketch
 ![Motor](IMG_6105.JPEG)
-## Analyze
+## Parametric CAD Model
 
 
-## Decide
+## Drawing
 
 
-## Communicate
+## Summary
 
