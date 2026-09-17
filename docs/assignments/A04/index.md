@@ -12,7 +12,7 @@ I chose PETG because that is what I have been using in 3D all semester. Below yo
 ## Sketch
 ![Motor](IMG_6105.JPEG)
 ## Parametric CAD Model
-There should be two very easy ways to access my CAD Model Please Dont complain you cannot acess it and give me a zero Because that is not true click the link to the shared Google Drive and the park Is called motormount.prt. When I made this part I started with some rectangle extrudes and created an L shape. The next thing I did was I measured out a reassessment for the motor head. After that I drilled the holes for the motor to bold into that and then finally I drilled the holes for the motor mount to be able to bold on whatever we want.
+There should be two very easy ways to access my CAD Model Please Don't complain you cannot access it and give me a zero Because that is not true click the link to the shared Google Drive and the park Is called motormount.prt. When I made this part I started with some rectangle extrudes and created an L shape. The next thing I did was I measured out a reassessment for the motor head. After that I drilled the holes for the motor to bold into that and then finally I drilled the holes for the motor mount to be able to bold on whatever we want. PS. If the file does not open check your Creo version It does not always work for me across all versions of creo. MY model should be from CreO 12.4.
 https://drive.google.com/drive/folders/1ESFeaWSr4QqMpWqN5K4x8xtdz4wsImEo?usp=drive_link
 [Download Creo Part](./motormount.prt.1)
 ![Motor](IMG_6094.JPEG)
