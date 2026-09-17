@@ -15,7 +15,7 @@ I chose PETG because that is what I have been using in 3D all semester. Below yo
 
 
 ## Drawing
-
+![Motor](mydrawingseb.png)
 
 ## Summary
 
