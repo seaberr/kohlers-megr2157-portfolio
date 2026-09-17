@@ -12,6 +12,7 @@ I chose PETG because that is what I have been using in 3D all semester. Below yo
 ## Sketch
 ![Motor](IMG_6105.JPEG)
 ## Parametric CAD Model
+https://drive.google.com/drive/folders/1ESFeaWSr4QqMpWqN5K4x8xtdz4wsImEo?usp=drive_link
 [Download Creo Part](./motormount.prt.1)
 ![Motor](IMG_6094.JPEG)
 ![Motor](IMG_6099.JPEG)
