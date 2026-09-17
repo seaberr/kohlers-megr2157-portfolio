@@ -9,8 +9,10 @@ I chose PETG because that is what I have been using in 3D all semester. Below yo
 ![Motor](IMG_6085.JPEG)
 ## Feature 2
 --------------------------------------------------------------------
+I Used force balance first which allowed me to do the stress and deflection math. I basically found the equations plugged the variables in and got my result. With the result I used my logic to decern what the result meant compared to my given and ither calculated values that were the product of a given value and a number I chose for a dimension. 
 ![Motor](IMG_6123.JPEG)
 ## Sketch
+I created this isometric view which not only helped me create the cad model but I think it also helped me understand the problem better.
 ![Motor](IMG_6105.JPEG)
 ## Parametric CAD Model
 There should be two very easy ways to access my CAD Model Please Don't complain you cannot access it and give me a zero Because that is not true click the link to the shared Google Drive and the park Is called motormount.prt. When I made this part I started with some rectangle extrudes and created an L shape. The next thing I did was I measured out a reassessment for the motor head. After that I drilled the holes for the motor to bold into that and then finally I drilled the holes for the motor mount to be able to bold on whatever we want. PS. If the file does not open check your Creo version It does not always work for me across all versions of creo. MY model should be from CreO 12.4.
