@@ -12,6 +12,10 @@ I chose PETG because that is what I have been using in 3D all semester. Below yo
 ## Sketch
 ![Motor](IMG_6105.JPEG)
 ## Parametric CAD Model
+![Motor](IMG_6094.JPEG)
+![Motor](IMG_6099.JPEG)
+![Motor](IMG_6100.JPEG)
+![Motor](IMG_6104.JPEG)
 
 
 ## Drawing
