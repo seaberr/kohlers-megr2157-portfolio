@@ -7,7 +7,7 @@ looking at this bracket we have to take the approach where we have to harvest as
 ![pic1](pic4.png)
 
 
-This image confirms that where the wire loads the cylindric rod it is an even distributed load.
+This image confirms that where the strap loads the cylindric rod it is an even distributed load.
 ![pic1](pic3.png)
 
 ![pic1](pic2.png)
