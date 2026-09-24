@@ -1,5 +1,6 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # A5 – Bracket Design
+looking at this bracket we have to take the approach where we have to harvest as much information from the photos that were given to us about the hangar we are modeling. This clip Has some important vertical and horizontal demensions we will use. 
 ![pic1](pic1.png)
 
 -----------------------------------------------------------------------------------------------------
