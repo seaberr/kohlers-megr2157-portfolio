@@ -5,11 +5,7 @@
 -----------------------------------------------------------------------------------------------------
 ![pic1](pic4.png)
 
-![pic1](IMG_6282.JPEG)
-![pic1](IMG_6283.JPEG)
-![pic1](IMG_6284.JPEG)
-![pic1](IMG_6285.JPEG)
-![pic1](IMG_6286.JPEG)
+
 
 ![pic1](pic3.png)
 
@@ -17,6 +13,11 @@
 Calculating Dimensions
 
 ![pic1](pic5.png)
+![pic1](IMG_6282.JPEG)
+![pic1](IMG_6283.JPEG)
+![pic1](IMG_6284.JPEG)
+![pic1](IMG_6285.JPEG)
+![pic1](IMG_6286.JPEG)
 
 Determine and write the known values.
 ![pic1](pic6.png)
