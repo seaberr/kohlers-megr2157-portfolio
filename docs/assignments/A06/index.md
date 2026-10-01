@@ -1,7 +1,9 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # A6 – Bracket Drawing (Drawings Part 1)
 
-I made my part in Creo and extruded each part step by step as well as dimensioning from A5. I chose to extrude the main body as one piece instead of just a rectangle and cutting through the middle with another geometry. I think this was a good design choice because it made demnsioning easy  and gave me more practice with using the constraints which was good becasue It is a weakness I have in ceo.
+I made my part in Creo and extruded each part step by step as well as dimensioning from A5. I chose to extrude the main body as one piece instead of just a rectangle and cutting through the middle with another geometry. I think this was a good design choice because it made demnsioning easy  and gave me more practice with using the constraints which was good becasue It is a weakness I have in creo.
+## Link to Assignment 6 PRT file
+https://drive.google.com/drive/folders/1yST3vVSqNQWlvS1h40iSoe2Rc19s5la5?usp=drive_link
 ![MEGR 2156-7 Title](IMG_6474.JPEG)
 ![MEGR 2156-7 Title](IMG_6465.JPEG)
 ![MEGR 2156-7 Title](IMG_6466.JPEG)
