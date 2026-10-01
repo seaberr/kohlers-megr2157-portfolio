@@ -12,7 +12,7 @@ I made my part in Creo and extruded each part step by step as well as dimensioni
 ![MEGR 2156-7 Title](IMG_6472.JPEG)
 ![MEGR 2156-7 Title](IMG_6473.JPEG)
 ## my drawing
-![MEGR 2156-7 Title](myDrawing.JPEG)
+![MEGR 2156-7 Title](mydrawing.png)
 ## Parametric Design
 
 Produce a multi-view CAD drawing of the link with complete dimensioning and proper tolerancing. 
