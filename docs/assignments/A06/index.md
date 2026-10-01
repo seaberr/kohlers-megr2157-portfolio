@@ -11,8 +11,7 @@ I made my part in Creo and extruded each part step by step as well as dimensioni
 ![MEGR 2156-7 Title](IMG_6471.JPEG)
 ![MEGR 2156-7 Title](IMG_6472.JPEG)
 ![MEGR 2156-7 Title](IMG_6473.JPEG)
-## my drawing
-![MEGR 2156-7 Title](mydrawing.png)
+
 ## Parametric Design
 
 Produce a multi-view CAD drawing of the link with complete dimensioning and proper tolerancing. 
@@ -26,7 +25,7 @@ X.XXX ± .005
 At least two callouts for different tolerancing applied to critical features.
 A note identifying the interface features between the link and the bracket.
 
-![MEGR 2156-7 Title](Screenshot_1-10-2026_44954_github.com.JPEG)
+![MEGR 2156-7 Title](mydrawing.png)
 
 ## Reflections
 
