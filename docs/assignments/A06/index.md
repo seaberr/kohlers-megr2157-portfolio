@@ -17,7 +17,7 @@ Clearly document key design choices made.
 ![MEGR 2156-7 Title](Screenshot_1-10-2026_44954_github.com.JPEG)
 ## Parametric Design
 
-Produce a multi-view CAD drawing of the link with complete dimensioning and proper tolerancing.
+Produce a multi-view CAD drawing of the link with complete dimensioning and proper tolerancing. 
 Apply ASME Y14.5 standards for geometric dimensioning and tolerancing (GD&T).
 Include the following:
 Third-angle projection layout.
@@ -27,16 +27,10 @@ X.XX ± .01
 X.XXX ± .005
 At least two callouts for different tolerancing applied to critical features.
 A note identifying the interface features between the link and the bracket.
-
-
-## Drawing
-
-Describe lessons learned about ensuring part-to-part compatibility through tolerancing.
-Reflect on how dimensioning and tolerancing communicates design intent and functional requirements in your design.
-
+![MEGR 2156-7 Title](Screenshot_1-10-2026_44954_github.com.JPEG)
 
 ## Reflections
 
-
+The assignment tested my patience, but I pulled through. I learned how the dimension for
 
 
