@@ -14,6 +14,7 @@ Clearly document key design choices made.
 ![MEGR 2156-7 Title](IMG_6472.JPEG)
 ![MEGR 2156-7 Title](IMG_6473.JPEG)
 ![MEGR 2156-7 Title](IMG_6474.JPEG)
+![MEGR 2156-7 Title](Screenshot_1-10-2026_44954_github.com.JPEG)
 ## Parametric Design
 
 Produce a multi-view CAD drawing of the link with complete dimensioning and proper tolerancing.
