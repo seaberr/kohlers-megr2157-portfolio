@@ -5,7 +5,15 @@ Create a solid model of the link in CAD, parametrically tied to the bracket dime
 Show the parametric table that controls the link dimensions and how they relate to the bracket interface.
 Clearly document key design choices made.
 
-![MEGR 2156-7 Title](MEES_Logo_Standard.png)
+![MEGR 2156-7 Title](IMG_6465.JPEG)
+![MEGR 2156-7 Title](IMG_6466.JPEG)
+![MEGR 2156-7 Title](IMG_6467.JPEG)
+![MEGR 2156-7 Title](IMG_6468.JPEG)
+![MEGR 2156-7 Title](IMG_6469.JPEG)
+![MEGR 2156-7 Title](IMG_6471.JPEG)
+![MEGR 2156-7 Title](IMG_6472.JPEG)
+![MEGR 2156-7 Title](IMG_6473.JPEG)
+![MEGR 2156-7 Title](IMG_6474.JPEG)
 ## Parametric Design
 
 Produce a multi-view CAD drawing of the link with complete dimensioning and proper tolerancing.
