@@ -26,7 +26,22 @@ End Inner Loop
 ## Design Optimization
 Review results to make geometric changes, adding and removing material where needed in an attempt to modify the component to be stronger, stiffer, and more lightweight than the prior solutions.
 Repeat #1 through #3  a minimum of three times.
-
+![MEGR 2156-7 Title](IMG_6897.JPEG)
+![MEGR 2156-7 Title](IMG_6898.JPEG)
+![MEGR 2156-7 Title](IMG_6901.JPEG)
+![MEGR 2156-7 Title](IMG_6903.JPEG)
+![MEGR 2156-7 Title](IMG_6905.JPEG)
+![MEGR 2156-7 Title](IMG_6907.JPEG)
+![MEGR 2156-7 Title](IMG_6908.JPEG)
+![MEGR 2156-7 Title](IMG_6909.JPEG)
+![MEGR 2156-7 Title](IMG_6912.JPEG)
+![MEGR 2156-7 Title](IMG_6914.JPEG)
+![MEGR 2156-7 Title](IMG_6919.JPEG)
+![MEGR 2156-7 Title](IMG_6921.JPEG)
+![MEGR 2156-7 Title](IMG_6923.JPEG)
+![MEGR 2156-7 Title](IMG_6927.JPEG)
+![MEGR 2156-7 Title](IMG_6931.JPEG)
+![MEGR 2156-7 Title](IMG_6932.JPEG)
 
 
 ## Reflections
