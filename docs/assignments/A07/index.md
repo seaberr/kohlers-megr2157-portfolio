@@ -2,10 +2,9 @@
 # A7 – FEA on Bracket
 My Bracket has 1023 carbon steel applied to it.
 ## Outer Loop: Based on Design Optimization
-(30% total: each time through the outer loop is 10%)
+
 Judging by the assignment detail it appears this will be an iterative design process where we try multiple things and then check and modify to receive our desired result
 ## Inner Loop: Based on validation
-(60% total: each time through the inner loop is 20%)
 
 ## Preprocessing
 Perform a static stress analysis
@@ -31,9 +30,11 @@ Repeat #1 through #3  a minimum of three times.
 ![MEGR 2156-7 Title](IMG_6898.JPEG)
 ![MEGR 2156-7 Title](IMG_6901.JPEG)
 ### Hangar Attempt 2 
+Our updated design incorrperates a latteral support to counter act the moment arm created by the long overhang of the cylindrical beam.
 ![MEGR 2156-7 Title](IMG_6903.JPEG)
 ![MEGR 2156-7 Title](IMG_6905.JPEG)
 ### Hangar Attempt 3
+The third iteration receives an update on the removal of 90-degree corners where there are stress concentrations
 ![MEGR 2156-7 Title](IMG_6907.JPEG)
 ![MEGR 2156-7 Title](IMG_6908.JPEG)
 ![MEGR 2156-7 Title](IMG_6909.JPEG)
@@ -43,6 +44,7 @@ Repeat #1 through #3  a minimum of three times.
 ![MEGR 2156-7 Title](IMG_6919.JPEG)
 ![MEGR 2156-7 Title](IMG_6921.JPEG)
  ### Link Attempt 2
+ The second iteration attempts to hold the wall away from deflection by adding more material and strength with it's extruded triangle feature.
 ![MEGR 2156-7 Title](IMG_6923.JPEG)
 ![MEGR 2156-7 Title](IMG_6927.JPEG)
  ### Link Attempt 3
