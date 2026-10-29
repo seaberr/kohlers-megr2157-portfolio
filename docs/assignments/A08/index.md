@@ -21,5 +21,6 @@ McMaster wouldn't let me make an account
 #### The gearbox halves use the same part Aswell as Drawinf
 ![MEGR 2156-7 Title](IMG_7062.JPEG)
 ![MEGR 2156-7 Title](IMG_7062.JPEG)
+![MEGR 2156-7 Title](Screenshot_29-10-2026_42740_www.mcmaster.com.jpeg)
 ## Time spent and lessons Learned
 I learned what it was like to put gears together in cad. I also learned how to calculate forces that would be affecting a bushing and I was able to Taylor the right material so that the gearbox will be built with a high factor of safety.
