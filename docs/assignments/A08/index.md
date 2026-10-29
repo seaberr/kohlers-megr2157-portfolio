@@ -1,15 +1,13 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # A8 – Gear Box Design
-(15%) Design of the shafts: Use the equations for stress outlined in lecture and Machinery’s Handbook determine if the input and output shafts’ diameters are sufficient.
+## Design of the shafts: Use the equations for stress outlined in lecture and Machinery’s Handbook determine if the input and output shafts’ diameters are sufficient.
 ![MEGR 2156-7 Title](IMG_7047.JPEG)
-
-
-
-(30%) Design journal bearings:
+## Design journal bearings:
 ![MEGR 2156-7 Title](IMG_7048.JPEG)
 ![MEGR 2156-7 Title](IMG_7049.JPEG)
-(45%) Generate a CAD Model of the two halves of the gearbox.
+## Generate a CAD Model of the two halves of the gearbox.
 McMaster wouldn't let me make an account
+### All the Files https://drive.google.com/drive/folders/1YbYgOXixXVg7XmSgNTHKZOroIi1oFBeP?usp=sharing
 ![MEGR 2156-7 Title](IMG_7050.JPEG)
 ![MEGR 2156-7 Title](IMG_7051.JPEG)
 ![MEGR 2156-7 Title](IMG_7052.JPEG)
@@ -20,3 +18,4 @@ McMaster wouldn't let me make an account
 ![MEGR 2156-7 Title](IMG_7060.JPEG)
 ![MEGR 2156-7 Title](IMG_7061.JPEG)
 ![MEGR 2156-7 Title](IMG_7062.JPEG)
+## Time spent and lessons Learned
