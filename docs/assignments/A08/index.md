@@ -7,6 +7,7 @@
 ![MEGR 2156-7 Title](IMG_7049.JPEG)
 ## Generate a CAD Model of the two halves of the gearbox.
 McMaster wouldn't let me make an account
+### All of the tolerances are in the drawings below
 ### All the Files https://drive.google.com/drive/folders/1YbYgOXixXVg7XmSgNTHKZOroIi1oFBeP?usp=sharing
 ![MEGR 2156-7 Title](IMG_7050.JPEG)
 ![MEGR 2156-7 Title](IMG_7051.JPEG)
