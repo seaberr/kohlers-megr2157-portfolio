@@ -17,5 +17,7 @@ McMaster wouldn't let me make an account
 ![MEGR 2156-7 Title](IMG_7056.JPEG)
 ![MEGR 2156-7 Title](IMG_7060.JPEG)
 ![MEGR 2156-7 Title](IMG_7061.JPEG)
+#### The gearbox halves use the same part Aswell as Drawinf
+![MEGR 2156-7 Title](IMG_7062.JPEG)
 ![MEGR 2156-7 Title](IMG_7062.JPEG)
 ## Time spent and lessons Learned
