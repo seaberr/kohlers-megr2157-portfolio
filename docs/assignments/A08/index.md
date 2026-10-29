@@ -23,4 +23,4 @@ McMaster wouldn't let me make an account
 ![MEGR 2156-7 Title](IMG_7062.JPEG)
 ![MEGR 2156-7 Title](Screenshot_29-10-2026_42740_www.mcmaster.com.jpeg)
 ## Time spent and lessons Learned
-I learned what it was like to put gears together in cad. I also learned how to calculate forces that would be affecting a bushing and I was able to Taylor the right material so that the gearbox will be built with a high factor of safety.
+I learned what it was like to put gears together in cad. I also learned how to calculate forces that would be affecting a bushing, and I was able to Taylor the right material so that the gearbox will be built with a high factor of safety. I slso learned that sometimes you are unable to source the part you want I could not find a 1/4 outer and 3/16 inner bronze sleeve bushing.
