@@ -6,6 +6,6 @@
 
 ### Model the equations and solve  them symbolically for minimum diameter.
 ![MEGR 2156-7 Title](IMG_7181.JPEG)
+![MEGR 2156-7 Title](Screenshot 2026-11-05 082953.png)
 ### Lessons Learned
 I learned it is more difficult than I thought to do this well. It is not that hard, but it takes a good amount of research to make sure you are using the right equations and math
-
