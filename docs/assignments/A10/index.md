@@ -1,6 +1,8 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # A10 – Lead Screw Translating System
 CAD ACCESS FOLDER. https://drive.google.com/drive/folders/1XlgFVTGdcgsS3MZ7Ju-onJi7chmYeZqd?usp=sharing
+## TEAM
+Introducing your to Sebastian I 
 ## Objective
 ![MEGR 2156-7 Title](IMG_7288.JPG)
 ![MEGR 2156-7 Title](IMG_7289.JPG)!
@@ -32,8 +34,6 @@ Deflection governs the crosshead height. A 50.8 mm (2.000 in) tall 6061-T6 bar p
 ![MEGR 2156-7 Title](IMG_7296.JPG)
 ![MEGR 2156-7 Title](IMG_7297.JPG)
 
-![MEGR 2156-7 Title](IMG_7296.JPG)
-![MEGR 2156-7 Title](IMG_7296.JPG)
-![MEGR 2156-7 Title](IMG_7296.JPG)
 ## FEA
 ## Lessons Learned
+ During this assignment I spent a lot of time just to discover that the 
