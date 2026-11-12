@@ -23,9 +23,7 @@ Deflection governs the crosshead height. A 50.8 mm (2.000 in) tall 6061-T6 bar p
 | 1 | 2 | Carbon Steel Acme Lead Screw, 3/8"-12, right-hand, 3 ft (98935A817) | 10.15 | 20.30 | [98935A817](https://www.mcmaster.com/98935A817/) |
 | 2 | 2 | Bronze Acme Flange Nut, 3/8"-12, right-hand (95120A592) | 111.78 | 223.56 | [95120A592](https://www.mcmaster.com/95120A592/) |
 | 3 | 2 | Clamping Acme Lead Screw Collar, 3/8"-12, black-oxide steel (6698K11) | 18.38 | 36.76 | [6698K11](https://www.mcmaster.com/6698K11/) |
-| 4 | 6 | Socket Head Cap Screw, #4-40 x 1/2", alloy steel | | | |
-| 5 | 1 | 80/20 40-Series T-Slot Profile, 80 mm x 40 mm, 10 ft | | | |
-| | | **Total Cost** | | | |
+| | | **Total Cost** |  | 280.62 | |
 ## Parametric Modeling
 ## FEA
 ## Lessons Learned
