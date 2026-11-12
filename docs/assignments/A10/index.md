@@ -1,9 +1,9 @@
 ![MEGR 2156-7 Title](MEES_Logo_Standard.png)
 # A10 – Lead Screw Translating System
 CAD ACCESS FOLDER. https://drive.google.com/drive/folders/1XlgFVTGdcgsS3MZ7Ju-onJi7chmYeZqd?usp=sharing
-## TEAM
-Introducing your to Sebastian I am the team lead
-Also intruduce yourself to 
+## TEAM Members: Sebastian Kohler, -----------
+Introducing you to Sebastian I am the team lead
+
 ## Objective
 ![MEGR 2156-7 Title](IMG_7288.JPG)
 ![MEGR 2156-7 Title](IMG_7289.JPG)!
@@ -31,11 +31,12 @@ Deflection governs the crosshead height. A 50.8 mm (2.000 in) tall 6061-T6 bar p
 | 3 | 2 | Clamping Acme Lead Screw Collar, 3/8"-12, black-oxide steel (6698K11) | 18.38 | 36.76 | [6698K11](https://www.mcmaster.com/6698K11/) |
 | | | **Total Cost** |  | 280.62 | |
 ## Parametric Modeling
+I designed the models here ready for assembly
 ![MEGR 2156-7 Title](IMG_7295.JPG)
 ![MEGR 2156-7 Title](IMG_7296.JPG)
 ![MEGR 2156-7 Title](IMG_7297.JPG)
 
 ## FEA
-F
+Fea was blocked by my Solidworks
 ## Lessons Learned
  During this assignment I spent a lot of time just to discover that the FEA part of solidworks cannot be finished without beign on campus and in the computer lab.
