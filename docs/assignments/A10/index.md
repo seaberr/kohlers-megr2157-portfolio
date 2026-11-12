@@ -15,6 +15,8 @@ The 95120A592 bronze flange nut passes the thread check with a safety factor of 
 | --- | --- | --- |
 | Flange nut (x2) | [95120A592](https://www.mcmaster.com/95120A592/) | 932 bearing bronze, 3/8"-12 Acme, right-hand, 7/8" tall, 1/2" barrel diameter, 1" flange diameter, 1/8" flange thickness, Class 2G |
 ## Design the Crosshead (25 pts):
+Deflection governs the crosshead height. A 50.8 mm (2.000 in) tall 6061-T6 bar passes both checks.
+
 ## Tabulating Costs
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | --- | --- | --- | --- | --- | --- |
