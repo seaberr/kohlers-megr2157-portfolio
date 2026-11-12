@@ -2,7 +2,8 @@
 # A10 – Lead Screw Translating System
 CAD ACCESS FOLDER. https://drive.google.com/drive/folders/1XlgFVTGdcgsS3MZ7Ju-onJi7chmYeZqd?usp=sharing
 ## TEAM
-Introducing your to Sebastian I 
+Introducing your to Sebastian I am the team lead
+Also intruduce yourself to 
 ## Objective
 ![MEGR 2156-7 Title](IMG_7288.JPG)
 ![MEGR 2156-7 Title](IMG_7289.JPG)!
@@ -35,5 +36,6 @@ Deflection governs the crosshead height. A 50.8 mm (2.000 in) tall 6061-T6 bar p
 ![MEGR 2156-7 Title](IMG_7297.JPG)
 
 ## FEA
+F
 ## Lessons Learned
- During this assignment I spent a lot of time just to discover that the 
+ During this assignment I spent a lot of time just to discover that the FEA part of solidworks cannot be finished without beign on campus and in the computer lab.
